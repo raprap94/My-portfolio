@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <header className="hero">
       <h2>
-        <SparklesText text="Welcome Summoners" />
+        <SparklesText text="My Portfolio" />
       </h2>
       <p>
         <SparklesText text="I'm a Creative Developer" />

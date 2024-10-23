@@ -1,0 +1,26 @@
+.footer {
+    background: #1e1e1e; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .social-links {
+    margin-top: 10px;
+  }
+  
+  .social-links a {
+    margin: 0 10px;
+    color: #4caf50; /* Green link color */
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    color: #81c784; /* Lighter green on hover */
+  }
+  
